@@ -9,7 +9,7 @@ The Shopping List that appears on each user’s mobile device is synchronized with
 
 The app is written using the MIT App Inventor 2 (AI2) integrated development environment (IDE).   At present, AI2 can only create apps for Android mobile devices.  The MIT team has promised support for iOS (Apple) mobile devices later this year. 
  
-One person in the user group must create the Firebase database using their Google account and enter the access credentials into the app’s source code file (.aia file) in this repository.  That person must then create the app installation file (.apk) that is used by each member of the group.  Instructions for creating the cloud database and installing the app with the database access credentials included are provided in the document “Synchronized Shopping List Setup and Installation Instructions” which is located in the Documents folder in this repository. A User Manual is also included in this directory.
+One person in the user group must create the Firebase database using their Google account and enter the access credentials into the app’s source code file (.aia file) in this repository.  That person must then create the app installation file (.apk) that is used by each member of the group.  Instructions for creating the cloud database and installing the app with the database access credentials included are provided in the document “Synchronized Shopping List Setup and Installation Instructions” which is located in the Documents folder in this repository. A User Manual is also included in this folder.
 
 No more missing items!  No more duplicate purchases!  Happy Shopping :)
 
