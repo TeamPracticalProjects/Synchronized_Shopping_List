@@ -11,8 +11,8 @@ The app is written using the MIT App Inventor 2 (AI2) integrated development env
  
 One person in the user group must create the Firebase database using their Google account and enter the access credentials into the app’s source code file (.aia file) in this repository.  That person must then create the app installation file (.apk) that is used by each member of the group.  Instructions for creating the cloud database and installing the app with the database access credentials included are provided in the document “Synchronized Shopping List Setup and Installation Instructions” which is located in the Documents folder in this repository. A User Manual is also included in this folder.
 
-No more missing items!  No more duplicate purchases!  Happy Shopping :)
+### No more missing items!  No more duplicate purchases!  Happy Shopping :)
 
-Team Practical Projects.
+### Team Practical Projects.
  
 
