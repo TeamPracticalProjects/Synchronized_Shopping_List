@@ -13,6 +13,8 @@ One person in the user group must create the Firebase database using their Googl
 
 ### No more missing items!  No more duplicate purchases!  Happy Shopping :)
 
-### Team Practical Projects.
+All materials contained in this repository are (c) 2018 by Bob Glicksman, Jim Schrempp and Team Practical Projects and are distributed freely under an open source, non-commercial license, see: https://creativecommons.org/licenses/by-nc/4.0/. Use of the material in this repository is subject to the document “Terms_of_Use_License_And_Disclaimer”, included in this repository.
+
+### Enjoy, Team Practical Projects.
  
 
